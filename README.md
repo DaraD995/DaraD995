@@ -1,16 +1,17 @@
-## Hi there 👋
+## About Me
 
-<!--
-**DaraD995/DaraD995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MPhys Physics student at Magdalen College, Oxford, graduating 2029. Interested in quant finance, machine learning, physics simulations.
 
-Here are some ideas to get you started:
+## What I've worked on 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Ensamble](https://github.com/DaraD995/Ensamble)** — Analysis of a large amount of thermodynamic data.
+- **[Puzzles](https://github.com/DaraD995/Puzzles)** — Puzzles
+- **[Neural Network](https://github.com/DaraD995/Neural-Networks)** — Created a multi-layer perceptron from scratch using NumPy matrix operations. Using my own maths for backpropogation of arbitrary network geometries.
+
+## Tools & Languages
+
+Python · NumPy/SciPy/Pandas · PyTorch · Matlab 
+
+## Contact
+
+[https://www.linkedin.com/in/dara-daneshvar-287856312/] · [dndaneshvar@gmail.com] 
