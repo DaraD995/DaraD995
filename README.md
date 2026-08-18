@@ -14,4 +14,4 @@ Python · NumPy/SciPy/Pandas · PyTorch · Matlab
 
 ## Contact
 
-[https://www.linkedin.com/in/dara-daneshvar-287856312/] · [dndaneshvar@gmail.com] 
+https://www.linkedin.com/in/dara-daneshvar-287856312/ · dndaneshvar@gmail.com 
