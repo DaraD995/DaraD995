@@ -7,7 +7,7 @@ MPhys Physics student at Magdalen College, Oxford, graduating 2029. Interested i
 - **[Ensamble](https://github.com/DaraD995/Ensamble)** — Analysis of a large amount of thermodynamic data.
 - **[Puzzles](https://github.com/DaraD995/Puzzles)** — Puzzles
 - **[Neural Network](https://github.com/DaraD995/Neural-Networks)** — Created a multi-layer perceptron from scratch using NumPy matrix operations. Using my own maths for backpropogation of arbitrary network geometries.
-- **[Stock Pitch]((https://github.com/DaraD995/Bruker-Long-Pitch))**
+- **[Stock Pitch]((https://github.com/DaraD995/Bruker-Long-Pitch))** - stock pitch: Bruker Long
 
 ## Tools & Languages
 
